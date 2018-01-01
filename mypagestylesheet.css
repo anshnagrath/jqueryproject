@@ -1,0 +1,104 @@
+
+header,#timeline,#new
+	{
+    color:white;
+   
+   
+    font-size:20px;
+    font-family:Comic Sans MS;
+
+
+}
+#me{
+	
+	background-size: auto;
+    height: 100%; 
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#timeline,#mer{
+    text-align: justify-all;
+    font-size:20px;
+    font-family:Comic Sans MS;
+    color:white;
+}
+.my-nav{
+    background-color:black;
+
+   }
+   .my-nav .navbar-brand{
+    color: white;
+     font-family:Comic Sans MS;
+   }
+   .my-nav .navbar-brand:hover{
+    color: #4B7CD7;
+   }
+   .my-nav .nav-link{
+    color:white;
+     font-family:Comic Sans MS;
+
+   }
+    .my-nav .nav-link:hover{
+    color:#4B7CD7;
+     font-family:Comic Sans MS;
+
+   }
+  .mt-5{
+    font-size:20px;
+  }
+.navbar-toggler{
+    color: white;
+}
+.navbar-toggler-icon{
+    background-color: white;
+}.my-fot{
+    background-color: black;
+}
+.my-fot .my-feet{
+    color: white;
+    font-family:Comic Sans MS;
+    font-size:20px;
+
+}
+.my-fot .me{
+    color: white;
+    font-family:Comic Sans MS;
+    font-size:20px;
+}
+.my-fot .my-gt{
+    color: white;
+    font-family:Comic Sans MS;
+    font-size:20px;
+}
+
+
+.my-fot  .my-crib{
+    color: white;
+    font-family:Comic Sans MS;
+    font-size:20px;
+}{
+
+}
+.my-fot  .my-pt{
+    color: white;
+    font-family:Comic Sans MS;
+    font-size:20px;
+}
+.my-fot  .my-ret{
+    color: white;
+    font-family:Comic Sans MS;
+    font-size:20px;
+}
+#btnbar{
+    text-align: center;
+    color: white;
+    font-family:Comic Sans MS;
+    font-size:20px;
+
+}
+
+#mj{
+  align-self: center;
+}
